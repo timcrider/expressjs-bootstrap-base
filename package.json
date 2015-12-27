@@ -1,0 +1,26 @@
+{
+  "name": "expressjs-bootstrap-base",
+  "version": "1.0.0",
+  "description": "Example bootstrap/expressjs application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timcrider/expressjs-bootstrap-base.git"
+  },
+  "author": "Timothy M. Crider <timcrider@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/timcrider/expressjs-bootstrap-base/issues"
+  },
+  "homepage": "https://github.com/timcrider/expressjs-bootstrap-base#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "ejs-locals": "^1.0.2",
+    "express": "^3.4.8",
+    "express-ejs-layouts": "^2.0.0",
+    "lodash": "^3.10.1"
+  }
+}
